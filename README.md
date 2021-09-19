@@ -1,4 +1,4 @@
-# Feature tracker & instructions
+# Feature tracker, FAQ & instructions
 
 ## When is it going to be done?
 it's hard to say. this project/port is being contributed to on my free time. feel free to fork and create pull requests, i'll highly appreciate it. :)
