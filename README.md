@@ -15,8 +15,9 @@ oh, like [this](https://user-images.githubusercontent.com/51330681/133930469-e5f
 4. press the "Install" button on your phone, select the utsplash.zip archive and install the package by sliding the slider at the bottom.
 5. you're done!
 
-### But what if I don't like it?
-well that's rude, ig. anyways-
+### How do I get the old splash back?
+the custom splash screen archive generates a back up of your splash screen when flashed. to restore your splash back to original, do the following:
 
 1. download this [splash screen restore archive](https://github.com/ubuntu-touch-on-zeroltexx/readme/raw/halium-7.1/restore_backup.zip).
-2. and just install it using the instructions above!
+2. and just install it using the instructions above.
+
